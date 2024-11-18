@@ -85,3 +85,15 @@
      - Keluar: Akhiri program.
 5. Kembali ke Menu (jika belum keluar).
 6. Selesai
+
+## latihan1
+
+![alt text](image-5.png)
+
+#### Penjelasan:
+1. Membuat Dictionary: Dictionary kontak dibuat dengan nama sebagai key dan nomor telepon sebagai value.
+2. Menampilkan Kontak Ari: Akses key "Ari" untuk mendapatkan nomor teleponnya.
+3. Menambah Kontak: Tambahkan entry baru ke dictionary dengan key "Riko".
+4. Mengubah Nomor Dina: Update nilai key "Dina".
+5. Menampilkan Semua Nama dan Nomor: Gunakan keys(), values(), dan items() untuk menampilkan daftar nama, nomor, dan pasangan nama-nomor.
+6. Menghapus Kontak Dina: Gunakan del untuk menghapus key "Dina" dari dictionary.
