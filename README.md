@@ -64,3 +64,24 @@
 ![alt text](image-3.png)
 ![alt text](image-4.png)
 
+## Flowchart
+
+![alt text](<Copy of Flowchart_20241118_094100_0000.png>)
+
+#### Penjelasan:
+
+1. Mulai Program
+     - Inisialisasi dictionary data_mahasiswa.
+2. Tampilkan Menu
+     - Menampilkan daftar pilihan (Tambah, Ubah, Hapus, Lihat, Cari, Keluar).
+3. Input Pilihan
+     - Ambil input pengguna untuk memilih menu.
+4. Proses Berdasarkan Pilihan:
+     - Tambah Data: Input NIM, Nama, Tugas, UTS, UAS → Hitung nilai akhir → Simpan ke dictionary.
+     - Ubah Data: Input NIM → Jika ditemukan, ubah data sesuai input baru.
+     - Hapus Data: Input NIM → Jika ditemukan, hapus data.
+     - Lihat Data: Cetak semua data mahasiswa dalam bentuk tabel.
+     - Cari Data: Input NIM → Jika ditemukan, tampilkan detail data.
+     - Keluar: Akhiri program.
+5. Kembali ke Menu (jika belum keluar).
+6. Selesai
