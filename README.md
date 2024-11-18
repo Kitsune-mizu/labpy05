@@ -58,3 +58,9 @@
          -	K: Keluar dari program.
      *	Looping:
          -	Program berjalan dalam loop hingga pengguna memilih K untuk keluar.
+
+### Contoh Output penggunaan
+
+![alt text](image-3.png)
+![alt text](image-4.png)
+
