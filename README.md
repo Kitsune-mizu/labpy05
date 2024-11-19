@@ -1,7 +1,7 @@
 # Program sederhana menampilkan daftar nilai mahasiswa menggunakan Dictionary
 ### Contoh Input Program Python3 (Vs code)
 
-![alt text](image.png)
+![alt text](image-6.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 
@@ -60,9 +60,14 @@
          -	Program berjalan dalam loop hingga pengguna memilih K untuk keluar.
 
 ### Contoh Output penggunaan
-
-![alt text](image-3.png)
-![alt text](image-4.png)
+1. [T]ambah Data
+     Menu ini digunakan untuk menambahkan data mahasiswa baru.
+     Langkah-langkah:
+     * Pilih menu dengan mengetik t atau T, lalu tekan Enter.
+     * Masukkan NIM mahasiswa (contoh: 20211001).
+     * Masukkan Nama mahasiswa (contoh: Andi).
+     * Masukkan Nilai Tugas, UTS, dan UAS (contoh: 80, 85, dan 90).
+     * Data akan disimpan, dan pesan "Data berhasil ditambahkan." akan muncul.
 
 ## Flowchart
 
