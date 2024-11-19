@@ -62,12 +62,12 @@
 ### Contoh Output penggunaan
 1. [T]ambah Data
      * Menu ini digunakan untuk menambahkan data mahasiswa baru.
-         Langkah-langkah:
-             - Pilih menu dengan mengetik t atau T, lalu tekan Enter.
-             - Masukkan NIM mahasiswa (contoh: 20211001).
-             - Masukkan Nama mahasiswa (contoh: Andi).
-             - Masukkan Nilai Tugas, UTS, dan UAS (contoh: 80, 85, dan 90).
-             - Data akan disimpan, dan pesan "Data berhasil ditambahkan." akan muncul.
+     * Langkah-langkah:
+         - Pilih menu dengan mengetik t atau T, lalu tekan Enter.
+         - Masukkan NIM mahasiswa (contoh: 20211001).
+         - Masukkan Nama mahasiswa (contoh: Andi).
+         - Masukkan Nilai Tugas, UTS, dan UAS (contoh: 80, 85, dan 90).
+         - Data akan disimpan, dan pesan "Data berhasil ditambahkan." akan muncul.
 
 ## Flowchart
 
