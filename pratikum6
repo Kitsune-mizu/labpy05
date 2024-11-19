@@ -15,7 +15,6 @@ def tampilkan_data():
             print(f"| {i:<2} | {nim:<8} | {data['nama']:<10} | {data['tugas']:<5} | {data['uts']:<3} | {data['uas']:<3} | {data['akhir']:<7.2f} |")
     print("="*60)
 
-
 def tambah_data():
     nim = input("Masukkan NIM: ")
     nama = input("Masukkan Nama: ")
