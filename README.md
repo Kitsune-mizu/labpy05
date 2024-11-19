@@ -68,7 +68,7 @@
          - Masukkan Nama mahasiswa (contoh: Andi).
          - Masukkan Nilai Tugas, UTS, dan UAS (contoh: 80, 85, dan 90).
          - Data akan disimpan, dan pesan "Data berhasil ditambahkan." akan muncul.
-         ![alt text](image-3.png)
+![alt text](image-3.png)
 2. [U]bah Data
      * Menu ini digunakan untuk mengubah data mahasiswa yang sudah ada.
      * Langkah-langkah:
@@ -79,7 +79,7 @@
                  - Masukkan Nilai Tugas Baru, UTS Baru, dan UAS Baru.
              - Jika data tidak ditemukan, pesan "Data tidak ditemukan." akan muncul.
          - Setelah data diperbarui, pesan "Data berhasil diubah." akan muncul.
-         ![alt text](image-4.png)
+![alt text](image-4.png)
 3. [H]apus Data
      * Menu ini digunakan untuk menghapus data mahasiswa berdasarkan NIM.
      * Langkah-langkah:
@@ -87,7 +87,7 @@
          - Masukkan NIM mahasiswa yang ingin dihapus.
              - Jika data ditemukan, data akan dihapus, dan pesan "Data berhasil dihapus." akan muncul.
              - Jika data tidak ditemukan, pesan "Data tidak ditemukan." akan muncul.
-             ![alt text](image-6.png)
+![alt text](image-6.png)
 4. [L]ihat Data
      * Menu ini digunakan untuk melihat semua data mahasiswa dalam bentuk tabel.
      * Langkah-langkah:
@@ -107,13 +107,13 @@
          - Masukkan NIM mahasiswa yang ingin dicari.
              - Jika data ditemukan, detail mahasiswa (NIM, Nama, Nilai Tugas, UTS, UAS, dan Nilai Akhir) akan ditampilkan.
              - Jika data tidak ditemukan, pesan "Data tidak ditemukan." akan muncul.
-             ![alt text](image-9.png)
+![alt text](image-9.png)
 6. [K]eluar
      * Menu ini digunakan untuk keluar dari program.
      * Langkah-langkah:
          - Pilih menu dengan mengetik k atau K, lalu tekan Enter.
          - Program akan menampilkan pesan "Keluar dari program." dan berhenti berjalan.
-         ![alt text](image-10.png)
+![alt text](image-10.png)
 
 ## Flowchart
 
