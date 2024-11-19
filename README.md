@@ -101,6 +101,7 @@
          - Tabel akan ditampilkan:
              - Jika ada data, tabel akan berisi data mahasiswa (NIM, Nama, Nilai Tugas, UTS, UAS, dan Nilai Akhir).
              - Jika tidak ada data, tabel kosong akan ditampilkan dengan pesan "TIDAK ADA DATA".
+             
 **Data kosong**
 
 ![alt text](image-7.png)
