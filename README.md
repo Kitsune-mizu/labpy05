@@ -59,7 +59,7 @@
      *	Looping:
          -	Program berjalan dalam loop hingga pengguna memilih K untuk keluar.
 
-### Contoh Output penggunaan
+### Contoh Input & Output penggunaan
 1. [T]ambah Data
      * Menu ini digunakan untuk menambahkan data mahasiswa baru.
      * Langkah-langkah:
